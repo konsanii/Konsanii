@@ -92,7 +92,4 @@ Customização de temas e formulários.
 🌐 Contato
 <a href="https://www.linkedin.com/in/lucas-consani-0a742b159/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Consani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<p align="center">
-<img src="LINK_GIF_PIXEL_WARRIOR" width="700">
-</p>
 
