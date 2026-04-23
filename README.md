@@ -87,7 +87,7 @@ Customização de temas e formulários.
 ✅ GitHub + Versionamento
 
 📊 Estatísticas GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical"/> 
 
 🌐 Contato
 <a href="https://www.linkedin.com/in/lucas-consani-0a742b159/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Consani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
