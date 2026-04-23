@@ -18,8 +18,6 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma (FATEC Votorantim
 
 Atualmente atuo com desenvolvimento de software e também possuo experiência em infraestrutura de redes, o que me dá uma visão ampla entre sistemas, usuários e ambiente técnico.
 
-🚀 Busco crescer como **Desenvolvedor Java Júnior**, contribuindo com código limpo, aprendizado contínuo e soluções reais.
-
 ---
 
 ## 🛡️ Skills & Tecnologias
@@ -74,8 +72,6 @@ CRUD completo com interface gráfica.
 Customização de temas e formulários.
 
 ---
-
-
 
 🏆 Quests Concluídas
 
